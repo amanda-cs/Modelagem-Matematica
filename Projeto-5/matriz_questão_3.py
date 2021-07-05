@@ -20,8 +20,8 @@ A = [
     [.5, 0, .5, 0, 0, 0, 0, 0]
 ]
 
-X = [
-    [[x1], [x2], [x3], [x4], [x5], [x6], [x7], [x8]]
+def autovetor(x):
+    x = [
+        [[x1], [x2], [x3], [x4], [x5], [x6], [x7], [x8]]
 ]
-
-X_T = np.transpose(X)
+    x_T = np.transpose(x)
